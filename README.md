@@ -13,7 +13,7 @@ README's in Github "markdown" for markup
 
 ## GitHub:
 
-[[Your GitHub Repo Link]](https://github.com/hmad356/Inet3101-lab01)
+[[Github link]](https://github.com/hmad356/Inet3101-lab01)
 
 To compile the program:
 
