@@ -1,4 +1,6 @@
 # Inet3101 lab01
+hi
+
 ## Code for INET 3101 lab 1 by ahmad minhas
 
 single command line menu for an inventory management system 
